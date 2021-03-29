@@ -1,0 +1,15 @@
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\bin\Release\WPF_BattagliaIV.exe.config
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\bin\Release\WPF_BattagliaIV.exe
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\bin\Release\WPF_BattagliaIV.pdb
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.csprojAssemblyReference.cache
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\MainWindow.g.cs
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\App.g.cs
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV_MarkupCompile.cache
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV_MarkupCompile.lref
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\MainWindow.baml
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.g.resources
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.Properties.Resources.resources
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.csproj.GenerateResource.cache
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.exe
+C:\Users\Jacopo Montella\source\repos\WPF_BattagliaIV\WPF_BattagliaIV\obj\Release\WPF_BattagliaIV.pdb
